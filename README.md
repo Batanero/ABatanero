@@ -1,6 +1,6 @@
 ### Full Stack Developer & GIS entusiast
 
-Full Stack Developer with 3+ years of professional experience in building web apliccations using GIS tecnology.<br>
+Full Stack Developer with 3+ years of professional experience building web apliccations using GIS tecnology.<br>
 
 
 ## Experience with
